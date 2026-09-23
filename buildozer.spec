@@ -16,7 +16,7 @@ orientation = portrait
 fullscreen = 0
 
 android.build_tools_version = 35.0.0
-
+android.accept_sdk_license = True
 [buildozer]
 
 log_level = 2
